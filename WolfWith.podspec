@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'WolfWith'
-    s.version          = '1.0.0'
+    s.version          = '1.0'
     s.summary          = 'A Swift implementation of the With-Operator.'
 
     # s.description      = <<-DESC
