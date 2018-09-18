@@ -1,0 +1,6 @@
+framework module WolfWith {
+  umbrella header "WolfWith-umbrella.h"
+
+  export *
+  module * { export * }
+}
