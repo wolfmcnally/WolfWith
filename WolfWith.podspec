@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'WolfWith'
-    s.version          = '1.0.2'
+    s.version          = '1.0.3'
     s.summary          = 'A Swift implementation of the With-Operator.'
 
     # s.description      = <<-DESC
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     s.author           = { 'Wolf McNally' => 'wolf@wolfmcnally.com' }
     s.source           = { :git => 'https://github.com/wolfmcnally/WolfWith.git', :tag => s.version.to_s }
 
-    s.source_files = 'WolfWith/Classes/**/*'
+    s.source_files = 'Sources/WolfWith/**/*'
 
     s.swift_version = '4.2'
 

@@ -1,6 +1,0 @@
-framework module Pods_WolfWith_Tests {
-  umbrella header "Pods-WolfWith_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
