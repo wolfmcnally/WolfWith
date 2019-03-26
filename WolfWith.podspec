@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'WolfWith'
-    s.version          = '1.0.3'
+    s.version          = '2.0.1'
     s.summary          = 'A Swift implementation of the With-Operator.'
 
     # s.description      = <<-DESC
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
     s.source_files = 'Sources/WolfWith/**/*'
 
-    s.swift_version = '4.2'
+    s.swift_version = '5.0'
 
     s.ios.deployment_target = '9.3'
     s.macos.deployment_target = '10.13'
